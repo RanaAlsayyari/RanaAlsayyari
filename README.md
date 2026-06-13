@@ -6,4 +6,4 @@ I work with with LLMs mostly and lately I have been tesing with agentic AI. I al
 
 Skills: Python · Machine Learning · NLP · Computer Vision (YOLO) · Data Analysis  · Agentic AI
 
-📫 Contact me on [LinkedIn](https://www.linkedin.com/in/rana-alsayyari)
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/rana-alsayyari-a944b6254/)
